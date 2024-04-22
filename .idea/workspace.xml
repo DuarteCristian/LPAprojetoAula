@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8d78832-6483-4bb3-a026-0d4d8b9a8df2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MONTANHA/COUPON.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/COUPON.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/4.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/5.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/6.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/7.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/PSD/8.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/craftpix-net-773023-free-mountain-backgrounds-pixel-art.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m2/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m2/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m2/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m2/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m3/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m3/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m3/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m3/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m3/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m3/PRE_ORIG_SIZE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m4/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m4/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m4/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m4/PRE_ORIG_SIZE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m4/pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m5/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m5/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m5/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m5/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m5/PRE_ORIG_SIZE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m5/pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m6/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m6/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m6/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m6/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m6/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m6/PRE_ORIG_SIZE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m6/pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m7/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m7/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m7/3_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m7/BIGPRE_ORIG_SIZE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m8/1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m8/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m8/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m8/BIGPRE_ORIG_SIZE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONTANHA/m8/PRE_ORIG_SIZE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ENTITY.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Enemy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/EntityFactory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/GAME.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/LEVEL.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/MENU.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/PLAYER.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/backgroud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/.idea/jogo do aviao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/code/Background.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/jogo do aviao/code/Background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/code/Enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/jogo do aviao/code/Enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/jogo do aviao/code/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/jogo do aviao/code/const.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2fMiqX8zEFUlyaFz2JGFn0RXcHp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;aula__pratica__02&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8d78832-6483-4bb3-a026-0d4d8b9a8df2" name="Changes" comment="" />
+      <created>1713617538344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713617538344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="aula_pratica_02" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
